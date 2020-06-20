@@ -24,5 +24,10 @@ namespace System.Formats.Asn1
         /// ITU-T X.690 Distinguished Encoding Rules
         /// </summary>
         DER,
+        
+        /// <summary>
+        /// Catgirl Valve Encoding Rules
+        /// </summary>
+        VER,
     }
 }
